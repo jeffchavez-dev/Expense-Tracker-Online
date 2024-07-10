@@ -1,0 +1,22 @@
+{
+  "name": "expense-tracker-online",
+  "version": "1.0.0",
+  "description": "expense tracker using node.js and mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "expense-tracker-online"
+  },
+  "keywords": [
+    "expense",
+    "tracker"
+  ],
+  "author": "Jeff Chavez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
